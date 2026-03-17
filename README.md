@@ -7,9 +7,7 @@ Full playlist:
 
 My lectures: 
 
-| Topic | Video | Deck |
-  |---|---|---|
-  | Potential Outcomes | [Video](https://www.youtube.com/watch?v=nX8P1QodY68&list=PLHwXAdVj07tsPrPqtiXY3a68vEc2OImkQ&index=3&t=6s) | [Deck](https://github.com/dkillian/MENA_MEL_WORKSHOP/blob/main/scripts/Potential%20outcomes/USAID%20MENA%20MEL%20Workshop%20-%20Day%201%20Session%202%20Potential%20Outcomes.html) |
+Potential Outcomes  [Video](https://www.youtube.com/watch?v=nX8P1QodY68&list=PLHwXAdVj07tsPrPqtiXY3a68vEc2OImkQ&index=3&t=6s)   [Deck](https://dkillian.github.io/MENA_MEL_WORKSHOP/blob/main/scripts/Potential%20outcomes/USAID%20MENA%20MEL%20Workshop%20-%20Day%201%20Session%202%20Potential%20Outcomes.html) 
 
 [Potential Outcomes](https://www.youtube.com/watch?v=nX8P1QodY68&list=PLHwXAdVj07tsPrPqtiXY3a68vEc2OImkQ&index=3&t=6s)
 
