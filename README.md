@@ -7,12 +7,12 @@ Full playlist:
 
 My lectures: 
 
-Potential Outcomes  
-[Video](https://www.youtube.com/watch?v=nX8P1QodY68&list=PLHwXAdVj07tsPrPqtiXY3a68vEc2OImkQ&index=3&t=6s)   [Deck](https://dkillian.github.io/MENA_MEL_WORKSHOP/scripts/Potential%20outcomes/USAID%20MENA%20MEL%20Workshop%20-%20Potential%20Outcomes%20(10-18-24).html) 
+Potential Outcomes   
+The standard theoretical approach to impact evaluation  
+[Video](https://www.youtube.com/watch?v=nX8P1QodY68&list=PLHwXAdVj07tsPrPqtiXY3a68vEc2OImkQ&index=3&t=6s)  |  [Deck](https://dkillian.github.io/MENA_MEL_WORKSHOP/scripts/Potential%20outcomes/USAID%20MENA%20MEL%20Workshop%20-%20Potential%20Outcomes%20(10-18-24).html) 
 
 [Potential Outcomes](https://www.youtube.com/watch?v=nX8P1QodY68&list=PLHwXAdVj07tsPrPqtiXY3a68vEc2OImkQ&index=3&t=6s)
 
-The standard theoretical approach to impact evaluation
 
 [Experimental Evaluation Design](https://www.youtube.com/watch?v=jA6TIoomGNc&list=PLHwXAdVj07tsPrPqtiXY3a68vEc2OImkQ&index=4)
 
